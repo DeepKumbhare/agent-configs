@@ -1,0 +1,53 @@
+{
+  "store": {
+    "environment": "test",
+    "source": "creem-cli",
+    "initializedAt": "2026-03-31T21:25:21.359404+00:00"
+  },
+  "lastCheckAt": "2026-03-31T21:25:21.359404+00:00",
+  "lastTransactionId": "tran_x3rgu6bLAQ57eMlQAPCQV",
+  "transactionCount": 20,
+  "customerCount": 15,
+  "subscriptions": {
+    "active": 4,
+    "trialing": 0,
+    "past_due": 0,
+    "paused": 2,
+    "canceled": 4,
+    "expired": 0,
+    "scheduled_cancel": 1
+  },
+  "knownSubscriptions": {
+    "sub_2KVhQy8QOtKMgR2g41PVVE": "scheduled_cancel",
+    "sub_4GlFmTBkQbolNRwcppse9v": "paused",
+    "sub_53XWAR2ksRVgnqEyXldQf3": "canceled",
+    "sub_6jZxYnKFu4SqQ49xHoFGOA": "canceled",
+    "sub_7CEoO2Ric0UpRvFCsOsOsg": "active",
+    "sub_x7yfmQdkeLXLpxEYoAVL7": "canceled",
+    "sub_3JhNPQGVB6apNTWT6yLt7p": "active",
+    "sub_6Ad0XPX9mgBUlS3PSF5zbE": "active",
+    "sub_7Xj5kb7FIOLZdoey7y9U10": "canceled",
+    "sub_1hwrTw37RG55ph04IYoMRW": "active",
+    "sub_2UHfHIwB9Bv6xZCSo6rDm9": "paused"
+  },
+  "newTransactions": [],
+  "newCustomers": 0,
+  "statusChanges": [],
+  "churn": {
+    "daily": {
+      "start_active_estimate": 8,
+      "canceled": 2,
+      "rate_pct": 25.0
+    },
+    "weekly": {
+      "start_active_estimate": 1,
+      "canceled": 0,
+      "rate_pct": 0.0
+    },
+    "monthly": {
+      "start_active_estimate": 1,
+      "canceled": 0,
+      "rate_pct": 0.0
+    }
+  }
+}
